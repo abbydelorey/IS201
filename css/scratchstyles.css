@@ -1,0 +1,92 @@
+.homebg{
+    background-image: url('../assets/img/kiwi.jpeg');
+}
+.heading{
+    text-align: center;
+    color:black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 200;
+}
+.boxes{
+    margin: 10px;
+    padding: 30px;
+    background: darkkhaki;
+    line-height: 0px;
+    height: 30px;
+    text-align: center;
+}
+.div {
+    width: 30%;
+    border: 10px solid rgb(122, 118, 59);
+    background: darkkhaki;
+    padding: 40px;
+    margin: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    color: black;
+    float: left;
+  }
+.div2 {
+    width: 20%;
+    border: 10px solid rgb(122, 118, 59);
+    background: darkkhaki;
+    padding: 40px;
+    margin: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    color: black;
+    float: right;
+    text-align: center;
+  }
+  .div3 {
+    width: 30%;
+    border: 8px solid rgb(122, 118, 59);
+    background: darkkhaki;
+    padding: 30px;
+    margin: 5px;
+    display: inline-block;
+    
+  }
+  .div4 {
+    width: 20%;
+    border: 10px solid rgb(122, 118, 59);
+    background: darkkhaki;
+    padding: 40px;
+    margin: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    color: black;
+    float: right;
+    text-align: center;
+  }
+  .imgbox{
+    float: inline-start;
+    width: 30%;
+    padding: 50px 50px;
+    border: 10px solid rgb(122, 118, 59);
+    background: darkkhaki;
+    justify-content: center;
+    align-items: center;
+}
+.imgbox2{
+    float: right;
+    width: 19%;
+    padding: 50px 50px;
+    border: 10px solid rgb(122, 118, 59);
+    background: darkkhaki;
+    justify-content: right;
+    align-items: right;
+}
+.footer{
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+    font-size: 8px;
+    padding-top: 1px;
+    position: fixed;
+    font-size: medium;
+}
